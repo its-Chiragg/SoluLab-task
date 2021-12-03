@@ -1,0 +1,21 @@
+@media only screen and (max-width: 600px) {
+
+    #hero {
+       height: 92vh;
+       margin-top: 5px;
+       background-image: none;
+       background-color: black;
+    }
+    .mid {
+        padding-top: 167px;
+    }
+    .send-btn {
+        margin-left: 180px;
+    }
+    .cancel-btn {
+        margin-left: 180px;
+    }
+    .input-group {
+        width: 100%;
+    }
+}
